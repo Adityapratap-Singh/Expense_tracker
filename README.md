@@ -80,11 +80,3 @@ Made by [@Mr\_adex](https://github.com/Adityapratap-Singh)
 
 This project is open source and free to use.
 
-
-
-
-
-Just create a file named `README.md` and paste this content in it.
-
-If you want, I can also help you with commands to add and commit it to GitHub!
-
